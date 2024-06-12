@@ -30,9 +30,14 @@ MathJax.Hub.Config({
 
 YSY日常的零星记录.
 
-- P大面试&公费旅游，顺路参观T大with xp, cxl&qzz:-)  <font size=2 color="grey">2024.5.19</font>
+- P大面试&公费旅游，顺路参观T大with xp, cxl&qzz:-)  <font size=2 color="grey">2024.4.19</font>
+![博雅塔](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_105606.jpg "博雅塔")
+![小道](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_102239.jpg "小道")
+![韦神的信箱](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_091541.jpg "韦神的信箱")
+![T大二校门](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1713527652871.jpg "T大二校门")
 
 - 在广工参加CMC决赛with lwh&zcy。题目好难qwq (ysy发现没摘口罩.jpg) <font size=2 color="grey">2023.5.28</font>
+![合影](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718172528678.jpg "合影")
 
 <br/>
 [少女祈祷中...](https://senyuyangpdelearner.github.io/)
