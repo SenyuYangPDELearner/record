@@ -33,6 +33,9 @@ YSY日常的零星记录.
 - 饲养的第一只fumo。​Ayayaya是清正廉明的幻想记者呢(ᗜˬᗜ)  <font size=2 color="grey">2024.5.8</font>
 ![Aya fumo](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240508_110940.jpg "Aya fumo")
 
+- 收到通知啦~Monsieur, j'aimerais étudier les mathématiques!<font size=2 color="grey">2024.4.26</font>
+![好中了](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/Screenshot_20240612_150849.jpg "好中了")
+
 - P大面试&公费旅游，顺路参观T大with xp, cxl&qzz:-)  <font size=2 color="grey">2024.4.19</font>
 ![博雅塔](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_105606.jpg "博雅塔")
 ![小道](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_102239.jpg "小道")
