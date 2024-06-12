@@ -30,6 +30,9 @@ MathJax.Hub.Config({
 
 YSY日常的零星记录.
 
+- 第一次现场听音乐会。WHU也有自己的菲时代！ <font size=2 color="grey">2024.6.14</font>
+![菲](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png "菲")
+
 - 饲养的第一只fumo。​Ayayaya是清正廉明的幻想记者呢(ᗜˬᗜ)  <font size=2 color="grey">2024.5.8</font>
 ![Aya fumo](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240508_110940.jpg "Aya fumo")
 
