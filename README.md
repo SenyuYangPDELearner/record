@@ -47,9 +47,6 @@ YSY日常的零星记录.
 - 在广工参加CMC决赛with lwh&zcy。题目好难qwq (ysy发现没摘口罩.jpg) <font size=2 color="grey">2023.5.28</font>
 ![合影](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718172528678.jpg "合影")
 
-<br/>
-[少女祈祷中...](https://senyuyangpdelearner.github.io/)
+<hr style="height:1px">
 
-***
-
-<font size="2" color="grey">&copy;SenyuYangPDElearner</font>
+&copy; Senyu Yang&emsp;&emsp;&emsp;<a href="https://senyuyangpdelearner.github.io" target="_self" >少女祈祷中...</a>
