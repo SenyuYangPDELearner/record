@@ -30,7 +30,7 @@ MathJax.Hub.Config({
 
 YSY日常的零星记录.
 
-- 第一次现场听音乐会。WHU也有自己的菲时代！(P2因为签名字太丑故马赛克...<font size=2 color="grey">2024.6.14</font>
+- 第一次现场听音乐会。WHU也有自己的菲时代！(P2因为签名字太丑故马赛克... <font size=2 color="grey">2024.6.14</font>
 ![海报](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png "海报")
 ![签名](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240614_215736.jpg)
 ![合影](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718374414800.jpg)
@@ -49,4 +49,4 @@ YSY日常的零星记录.
 
 <hr style="height:1px">
 
-&copy; Senyu Yang&emsp;&emsp;&emsp;<a href="https://senyuyangpdelearner.github.io" target="_self" >少女祈祷中...</a>
+&copy; Senyu Yang&emsp;<a href="https://senyuyangpdelearner.github.io" target="_self" >少女祈祷中...</a>
