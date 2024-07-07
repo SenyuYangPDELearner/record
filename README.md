@@ -31,7 +31,7 @@ MathJax.Hub.Config({
 YSY日常的零星记录.
 
 - 告别GPA时代. <font size=2 color="grey">2024.6.23</font>
-![不怕不怕啦](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg)
+<img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" height="341">
 
 - 第一次现场听音乐会。WHU也有自己的菲时代！(P2因为签名字太丑故马赛克... <font size=2 color="grey">2024.6.14</font>
 ![海报](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png "海报")
