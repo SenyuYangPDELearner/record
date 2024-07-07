@@ -30,25 +30,25 @@ MathJax.Hub.Config({
 
 YSY日常的零星记录.
 
-- 告别GPA时代. <font size=2 color="grey">2024.6.23</font>
-<img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" height="341">
+- 告别GPA时代. <font size=2 color="grey">2024.6.23</font><br>
+<img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" title="迫害麻美学姐" height="300" style="float:left">
 
-- 第一次现场听音乐会。WHU也有自己的菲时代！(P2因为签名字太丑故马赛克... <font size=2 color="grey">2024.6.14</font>
-![海报](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png "海报")
-![签名](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240614_215736.jpg)
-![合影](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718374414800.jpg)
+- 第一次现场听音乐会。WHU也有自己的菲时代！(P2因为签名字太丑故马赛克... <font size=2 color="grey">2024.6.14</font><br>
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png" alt="海报" title="歌会海报" height="300" style="float:left">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240614_215736.jpg" alt="签名" title="字太丑所以马赛克了" height="300">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718374414800.jpg" alt="合影" title="这就是我们菲迷的组合技" height="300">
 
-- 饲养的第一只fumo。​Ayayaya是清正廉明的幻想记者呢(ᗜˬᗜ)  <font size=2 color="grey">2024.5.8</font>
-![Aya fumo](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240508_110940.jpg "Aya fumo")
+- 饲养的第一只fumo。​Ayayaya是清正廉明的幻想记者呢(ᗜˬᗜ)  <font size=2 color="grey">2024.5.8</font><br>
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240508_110940.jpg" alt="Aya fumo" title="fumofumo, 文文最可爱啦" height=300 style="float:left">
 
-- P大面试&公费旅游，顺路参观T大with xp, cxl&qzz:-)  <font size=2 color="grey">2024.4.19</font>
-![博雅塔](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_105606.jpg "博雅塔")
-![小道](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_102239.jpg "小道")
-![韦神的信箱](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240623_161920.jpg "韦神的信箱")
-![T大二校门](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1713527652871.jpg "T大二校门")
+- P大面试&公费旅游，顺路参观T大with xp, cxl&qzz 🥳 <font size=2 color="grey">2024.4.19</font><br>
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_105606.jpg" alt="博雅塔和未名湖" title="博雅塔和未名湖" height=300 style="float:left">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_102239.jpg" alt="小道" title="一条小道" height=300><br>
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240623_161920.jpg" alt="韦神的信箱" title="膜" height=300 style="float:left">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1713527652871.jpg" alt="T大二校门" title="T大二校门" height=300>
 
-- 在广工参加CMC决赛with lwh&zcy。题目好难qwq (ysy发现没摘口罩.jpg) <font size=2 color="grey">2023.5.28</font>
-![合影](https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718172528678.jpg "合影")
+- 在广工参加CMC决赛with lwh&zcy。题目好难qwq <font size=2 color="grey">2023.5.28</font>
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718172528678.jpg" alt="合影" title="ysy发现没有摘口罩.jpg" height=300 style="float:left">
 
 <hr style="height:1px">
 
