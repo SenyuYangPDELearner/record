@@ -32,12 +32,12 @@ YSY日常的零星记录.
 
 - 告别GPA时代. <font size=2 color="grey">2024.6.23</font>
 <p>
-  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" title="迫害麻美学姐" height="300" style="float:left">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" title="迫害麻美学姐" height="300" align="left">
 </p>
 <tr>
-				<td align="left" width="800">&nbsp;</td>
-				<td align="left" width="800">&nbsp;</td>
-				<td align="left" width="800">&nbsp;</td>
+  <td align="left" width="800">&nbsp;</td>
+  <td align="left" width="800">&nbsp;</td>
+  <td align="left" width="800">&nbsp;</td>
 </tr>
 
 - 第一次现场听音乐会。WHU也有自己的菲时代！ <font size=2 color="grey">2024.6.14</font>
