@@ -35,7 +35,7 @@ YSY日常的零星记录.
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" title="迫害麻美学姐" height="300" style="float:left">
 </p>
 
-- 第一次现场听音乐会。WHU也有自己的菲时代！(P2因为签名字太丑故马赛克... <font size=2 color="grey">2024.6.14</font>
+- 第一次现场听音乐会。WHU也有自己的菲时代！ <font size=2 color="grey">2024.6.14</font>
 <p>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png" alt="海报" title="歌会海报" height="300" style="float:left">
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240614_215736.jpg" alt="签名" title="字太丑所以马赛克了" height="300">
@@ -47,7 +47,7 @@ YSY日常的零星记录.
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240508_110940.jpg" alt="Aya fumo" title="fumofumo, 文文最可爱啦" height=300 style="float:left">
 </p>
 
-- P大面试&公费旅游，顺路参观T大with xp, cxl&qzz 🥳 <font size=2 color="grey">2024.4.19</font>
+- P大面试&公费旅游，顺路参观T大with xp, cxl&qzz :-) <font size=2 color="grey">2024.4.19</font>
 <p>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_105606.jpg" alt="博雅塔和未名湖" title="博雅塔和未名湖" height=300 style="float:left">
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240419_102239.jpg" alt="小道" title="一条小道" height=300><br>
