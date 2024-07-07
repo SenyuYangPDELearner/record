@@ -47,7 +47,7 @@ YSY日常的零星记录.
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240623_161920.jpg" alt="韦神的信箱" title="膜" height=300 style="float:left">
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1713527652871.jpg" alt="T大二校门" title="T大二校门" height=300>
 
-- 在广工参加CMC决赛with lwh&zcy。题目好难qwq <font size=2 color="grey">2023.5.28</font>
+- 在广工参加CMC决赛with lwh&zcy。题目好难qwq <font size=2 color="grey">2023.5.28</font><br>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718172528678.jpg" alt="合影" title="ysy发现没有摘口罩.jpg" height=300 style="float:left">
 
 <hr style="height:1px">
