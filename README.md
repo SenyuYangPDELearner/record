@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1718428355551.png);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
