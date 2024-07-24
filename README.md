@@ -30,6 +30,8 @@ MathJax.Hub.Config({
 
 YSY日常的零星记录.
 
+- 宁波暑校，听邬老师讲水波方程. <font size=2 color="grey">2024.7.16-7.20</font>
+
 - 告别GPA时代. <font size=2 color="grey">2024.6.23</font>
 <div>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" title="迫害麻美学姐" height="300">
