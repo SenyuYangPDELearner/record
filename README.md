@@ -33,8 +33,8 @@ YSY日常的零星记录.
 - 宁波暑校，听邬老师讲水波方程. <font size=2 color="grey">2024.7.16-7.20</font>
 <p>
 <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/toNingBo.jpg" alt="去时风和日丽" title="去时风和日丽" height="300"> 
-  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/poster.jpg" alt="暑校海报" title="暑校海报" height="300"> 
-  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/schedule.jpg" alt="日程表" title="日程表" height="300">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/NBUposter.jpg" alt="暑校海报" title="暑校海报" height="300"> 
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/NBUschedule.jpg" alt="日程表" title="日程表" height="300">
 </p>
 
 - 告别GPA时代. <font size=2 color="grey">2024.6.23</font>
