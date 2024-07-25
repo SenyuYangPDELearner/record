@@ -30,14 +30,14 @@ MathJax.Hub.Config({
 
 YSY日常的零星记录.
 
-- 宁波暑校，听邬老师讲水波方程. <font size=2 color="grey">2024.7.16-7.20</font>
+- 宁波暑校，听邬老师讲水波方程。 <font size=2 color="grey">2024.7.16-7.20</font>
 <p>
 <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/toNingBo.jpg" alt="去时风和日丽" title="去时风和日丽" height="300"> 
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/NBUposter.jpg" alt="暑校海报" title="暑校海报" height="300"> 
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/NBUschedule.jpg" alt="日程表" title="日程表" height="300">
 </p>
 
-- 告别GPA时代. <font size=2 color="grey">2024.6.23</font>
+- 告别GPA时代 <font size=2 color="grey">2024.6.23</font>
 <p>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/1694680745694.jpg" alt="已经没有什么好怕的了" title="禁止迫害" height="300">
 </p>
@@ -46,10 +46,10 @@ YSY日常的零星记录.
 <p>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240612_154621.png" alt="海报" title="歌会海报" height="300">
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240614_215736.jpg" alt="签名" title="字太丑所以马赛克了" height="300">
-  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718374414800.jpg" alt="合影" title="这就是我们菲迷的组合技" height="300">
+  <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/mmexport1718374414800.jpg" alt="合影" title="这就是我们菲迷的组合技口牙" height="300">
 </p>
 
-- 饲养的第一只fumo。​Ayayaya是清正廉明的幻想记者呢(ᗜˬᗜ)  <font size=2 color="grey">2024.5.8</font>
+- 饲养的第一只fumo。​Ayayaya是清正廉明的天狗记者呢(ᗜˬᗜ)  <font size=2 color="grey">2024.5.8</font>
 <p>
   <img src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/IMG_20240508_110940.jpg" alt="Aya fumo" title="fumofumo, 文文最可爱啦" height=300>
 </p>
