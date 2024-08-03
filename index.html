@@ -3,17 +3,15 @@
 <meta charset="utf-8">
 <!--窗口自适应-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--设置链接颜色-->  
-<style>
-a:link, a:visited{color:#0000EE}
-</style>
 <!--网页标题和图标  -->
-<title>文花帖 | My Album</title>
+<title>燕石志 | Math Blog</title>
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/favicon.ico">
 <!--导入图标库  -->
   <script src="https://kit.fontawesome.com/c61fec31c6.js" crossorigin="anonymous"></script>
+<!--引入CSS文件  -->
+<link rel="stylesheet" type="text/css" href="css/style.css">
 <!--LaTeX脚本-->
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
         tex2jax: {
@@ -23,7 +21,22 @@ MathJax.Hub.Config({
         }
 });
 </script>
-<!--导航栏设置-->
+<!--导航栏和页脚html  -->
+<script>
+        fetch('template/head.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#headnav').innerHTML = data;
+            });
+</script>
+<script>
+        fetch('template/foot.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('#footbar').innerHTML = data;
+            });
+</script>
+<!--整体样式-->
 <style>
    body {
      margin: 0;
@@ -32,34 +45,13 @@ MathJax.Hub.Config({
      flex-direction: column;
      font-family: Verdana, sans-serif;
    }
-   /*导航栏设置 */
-   .navbar {
-     position:sticky;
-     top: 0px;
-     padding: 0px;
-     margin: 0px;
-     list-style-type: none;
-     background-color: rgb(32,33,36);
-     overflow: hidden;
-   }
-   .navbar a{
-     color: white;
-     display: block;
-     float: left;
-     text-decoration: none;
-     padding: 1.5%;
-     /*font-size: 100%*/
-   }
 </style>
 </head>
-
+  
 <!--设置背景图片 -->
 <body background="" style="background-position:center top; background-repeat:no-repeat;">
 <!--顶部导航栏 -->
-<nav class="navbar">
-      <a style="color:white; font-weight:bold; font-size:large">Senyu Yang</a>
-      <a href="https://senyuyangpdelearner.github.io" target="_self">Homepage</a>
-</nav>
+<div id="headnav" style="position: sticky; top: 0px;"></div>
 <!--封面 -->
 <img style="width:100%; margin: 0 auto;" src="https://raw.githubusercontent.com/SenyuYangPDELearner/record/main/image/PhantasticallSoundFinder-cover.jpg" alt="封面" title="(C85)[梶迫小道具店]Phantasticall Sound Finder的封面，很喜欢的一张东方同人专辑" >
 <!--正文区块-->
@@ -121,13 +113,8 @@ MathJax.Hub.Config({
 </li>
 </div>
 
-<div id="footer" style="bottom: 0; padding: 0px; width: 75%; margin: 0 auto; font-size:small; color: rgb(128,128,128)">
-<hr style="height:1px">
-<!--网页底部 -->
-<p>
-  &copy; Senyu Yang&emsp;献身的羔羊守护强者的知识
-</p>
-</div>
+<!-- foot copy -->
+<div id="footbar"></div>
 
 </body>
 </html>
