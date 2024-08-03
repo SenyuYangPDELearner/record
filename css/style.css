@@ -1,0 +1,27 @@
+a:link, a:visited {
+   color:#0000EE;
+   }
+.navbar {
+     position:sticky;
+     top: 0px;
+     padding: 0px;
+     margin: 0px;
+     width: 100%;
+     list-style-type: none;
+     background-color: rgb(32,33,36);
+     overflow: hidden;
+   }
+.navbar b{
+  color: white;
+  display: block;
+  float: left; 
+  text-decoration: none;
+  padding: 1.5%;     
+}
+.navbar a{
+     color: white;
+     display: block;
+     float: right;
+     text-decoration: none;
+     padding: 1.5%;
+   }
