@@ -19,9 +19,12 @@ a:link, a:visited {
   padding: 1.5%;     
 }
 .navbar a{
-     color: white;
-     display: block;
-     float: right;
-     text-decoration: none;
-     padding: 1.5%;
+   color: white;
+   display: block;
+   float: right;
+   text-decoration: none;
+   padding-top: 1.5%;
+   padding-bottom: 1.5%;
+   padding-left: 0%;
+   padding-right: 3%;
    }
